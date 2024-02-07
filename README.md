@@ -1,0 +1,1 @@
+Write a C program that calculates certain values based on a person's age and gender and prints the result. Given the age and gender input by the user, the program should calculate and display three values (A, B, and C) according to specified formulas.
